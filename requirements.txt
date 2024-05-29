@@ -16,4 +16,4 @@ six
 threadpoolctl
 Werkzeug
 zipp
-gunicorn
+
